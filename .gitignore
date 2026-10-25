@@ -1,0 +1,16 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / AI tool settings
+.vscode/
+.continue/
+.idea/
+
+# Local session data (optional: ignore if you want users to start fresh)
+boredom_data.json

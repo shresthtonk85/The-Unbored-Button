@@ -1,0 +1,799 @@
+{
+  "history": [],
+  "custom_activities": [
+    {
+      "title": "Draw something in 60 seconds",
+      "category": "Creative",
+      "duration": "60 seconds",
+      "mood": "Calm"
+    },
+    {
+      "title": "Listen to your favorite song",
+      "category": "Relaxing",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Make a paper plane",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Learn a new magic trick",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Organize one bookshelf row",
+      "category": "Indoor",
+      "duration": "7 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Do a 5-minute stretching routine",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Tidy up your desk space",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Write a 3-line poem",
+      "category": "Creative",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Go for a short 5-minute walk",
+      "category": "Outdoor",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Take a photo of an interesting leaf or flower",
+      "category": "Outdoor",
+      "duration": "6 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Step outside and take 10 deep breaths",
+      "category": "Outdoor",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Look up at the clouds and find shapes",
+      "category": "Outdoor",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Origami a simple jumping frog",
+      "category": "Creative",
+      "duration": "8 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Doodle your favorite food",
+      "category": "Creative",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Design a custom bookmark",
+      "category": "Creative",
+      "duration": "10 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Learn 1 new word in a new language",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Drink a glass of water slowly",
+      "category": "Relaxing",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Close your eyes and listen to quiet music for 3 minutes",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Take a short stretch and breathe deeply",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Make a tiny paper heart",
+      "category": "Creative",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Write down 3 things you enjoy",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Sit outside and notice 3 sounds",
+      "category": "Outdoor",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Sketch a simple object nearby",
+      "category": "Creative",
+      "duration": "7 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Take a short tea or water break",
+      "category": "Relaxing",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    }
+  ],
+  "activities": [
+    {
+      "title": "Learn a new magic coin trick",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Organize one bookshelf row by color",
+      "category": "Indoor",
+      "duration": "7 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Do a 5-minute dynamic stretching routine",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Tidy up your desk space and cables",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Clean one small surface in your room",
+      "category": "Indoor",
+      "duration": "4 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Do 20 jumping jacks and 10 wall push-ups",
+      "category": "Indoor",
+      "duration": "3 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Wipe down your phone and keyboard screen",
+      "category": "Indoor",
+      "duration": "3 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Make a cozy warm mug of herbal tea",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Fluff your pillows and straighten your bed",
+      "category": "Indoor",
+      "duration": "3 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Learn to juggle with three small rolled socks",
+      "category": "Indoor",
+      "duration": "6 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Put on upbeat music and do a 2-minute dance break",
+      "category": "Indoor",
+      "duration": "2 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Water your indoor plants and wipe their leaves",
+      "category": "Indoor",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Sort through and delete 20 old phone screenshots",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Practice balancing on one foot for 60 seconds each side",
+      "category": "Indoor",
+      "duration": "2 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Fold 5 items of clothing neatly",
+      "category": "Indoor",
+      "duration": "4 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Build a mini house of cards or coaster tower",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Dim the lights and light a scented candle or incense",
+      "category": "Indoor",
+      "duration": "3 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Do a slow neck and shoulder tension release",
+      "category": "Indoor",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Clean out your wallet or pencil case",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Test your reflexes with an online speed test",
+      "category": "Indoor",
+      "duration": "3 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Wrap yourself in a blanket and listen to rain sounds",
+      "category": "Indoor",
+      "duration": "6 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Go for a short 5-minute brisk walk",
+      "category": "Outdoor",
+      "duration": "5 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Take a macro photo of an interesting leaf or flower",
+      "category": "Outdoor",
+      "duration": "6 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Step outside and take 10 deep belly breaths",
+      "category": "Outdoor",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Look up at the clouds and find 3 recognizable shapes",
+      "category": "Outdoor",
+      "duration": "4 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Sit outside and close your eyes to notice 5 sounds",
+      "category": "Outdoor",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Do a quick sprint or jog down the block and back",
+      "category": "Outdoor",
+      "duration": "3 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Find smooth stones and stack a 4-stone balance cairn",
+      "category": "Outdoor",
+      "duration": "5 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Feel sunlight or fresh wind on your face for 3 minutes",
+      "category": "Outdoor",
+      "duration": "3 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Wave or smile at a neighbor or passerby",
+      "category": "Outdoor",
+      "duration": "1 minute",
+      "mood": "Playful"
+    },
+    {
+      "title": "Touch the bark of a nearby tree and notice its texture",
+      "category": "Outdoor",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Look for 3 different types of birds in your area",
+      "category": "Outdoor",
+      "duration": "5 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Do 10 calf raises on a stair or sidewalk curb",
+      "category": "Outdoor",
+      "duration": "2 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Find a natural object that fits in your palm to keep",
+      "category": "Outdoor",
+      "duration": "4 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Check the temperature and observe current weather cues",
+      "category": "Outdoor",
+      "duration": "2 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Walk barefoot on grass or a clean patio surface",
+      "category": "Outdoor",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Take a photo of your shadow in an artistic pose",
+      "category": "Outdoor",
+      "duration": "3 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Sit on a bench with a warm sweater or jacket",
+      "category": "Outdoor",
+      "duration": "6 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Find something in nature colored bright yellow or red",
+      "category": "Outdoor",
+      "duration": "3 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Do gentle arm circles while gazing toward the horizon",
+      "category": "Outdoor",
+      "duration": "3 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Watch leaves swaying in the breeze without checking time",
+      "category": "Outdoor",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Find a cozy sunny spot outside and soak in warmth",
+      "category": "Outdoor",
+      "duration": "5 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Draw something silly in 60 seconds",
+      "category": "Creative",
+      "duration": "60 seconds",
+      "mood": "Playful"
+    },
+    {
+      "title": "Make an aerodynamic paper plane and test fly it",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Write a 3-line haiku or poem about your day",
+      "category": "Creative",
+      "duration": "4 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Origami a simple jumping frog from paper",
+      "category": "Creative",
+      "duration": "8 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Doodle your favorite comfort food in cute cartoon style",
+      "category": "Creative",
+      "duration": "3 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Design a custom decorated bookmark with highlighters",
+      "category": "Creative",
+      "duration": "8 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Make a tiny origami paper heart",
+      "category": "Creative",
+      "duration": "4 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Write down 3 tiny things that brought you unexpected joy",
+      "category": "Creative",
+      "duration": "4 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Sketch a simple everyday object nearby with continuous line",
+      "category": "Creative",
+      "duration": "6 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Invent an imaginary animal and write its 2 superpower traits",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Write a micro flash-fiction story in exactly 50 words",
+      "category": "Creative",
+      "duration": "7 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Compose a funny rhyming couplet about boredom",
+      "category": "Creative",
+      "duration": "3 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Draw your mood right now as an abstract colorful pattern",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Create a playlist title and pick 3 dream tracks for it",
+      "category": "Creative",
+      "duration": "4 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Design a cool personal signature or monogram logo",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Write a postcard message to your future self 1 year ahead",
+      "category": "Creative",
+      "duration": "6 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Fold a paper fortune teller with 4 fun surprise actions",
+      "category": "Creative",
+      "duration": "7 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Take 3 photos from unusual angles (worms-eye or birds-eye)",
+      "category": "Creative",
+      "duration": "4 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Sketch a cartoon avatar of yourself with an oversized hat",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Write down 5 creative dream goals with zero judgment",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Color in a doodle page with pastel or neon color scheme",
+      "category": "Creative",
+      "duration": "6 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Listen to your absolute favorite relaxing song with eyes closed",
+      "category": "Relaxing",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Drink a glass of cold water slowly and mindfully",
+      "category": "Relaxing",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Close your eyes and listen to quiet lo-fi beats for 3 minutes",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Take a short full-body stretch and breathe deeply",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Learn 1 beautiful new word in a foreign language",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Take a mindful tea or warm water break without screens",
+      "category": "Relaxing",
+      "duration": "5 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Do 4-7-8 relaxing breathing: Inhale 4s, hold 7s, exhale 8s",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Rub your palms together until warm and rest them on your eyes",
+      "category": "Relaxing",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Massage your temples and jawline with gentle circular motions",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Read 2 pages of a favorite physical book slowly",
+      "category": "Relaxing",
+      "duration": "5 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Gently stretch your wrists and fingers to release typing strain",
+      "category": "Relaxing",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Look away from screens and focus on an object 20 feet away",
+      "category": "Relaxing",
+      "duration": "2 minutes",
+      "mood": "Focused"
+    },
+    {
+      "title": "Snuggle into your chair with relaxed posture and deep exhale",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Listen to peaceful ambient nature sounds (ocean or forest)",
+      "category": "Relaxing",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Roll your shoulders backward 10 times and forward 10 times",
+      "category": "Relaxing",
+      "duration": "2 minutes",
+      "mood": "Energetic"
+    },
+    {
+      "title": "Write down one worry on paper, crumple it, and toss it away",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Playful"
+    },
+    {
+      "title": "Hold a warm mug with both hands and enjoy the warmth",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Do a 3-minute progressive muscle relaxation from toes to head",
+      "category": "Relaxing",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Put your legs up on a couch or chair for quick circulation reset",
+      "category": "Relaxing",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Think of one person you appreciate and send a sweet 1-line text",
+      "category": "Relaxing",
+      "duration": "2 minutes",
+      "mood": "Cozy"
+    },
+    {
+      "title": "Practice quiet gratitude: identify 3 things going well right now",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Draw something in 60 seconds",
+      "category": "Creative",
+      "duration": "60 seconds",
+      "mood": "Calm"
+    },
+    {
+      "title": "Listen to your favorite song",
+      "category": "Relaxing",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Make a paper plane",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Learn a new magic trick",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Organize one bookshelf row",
+      "category": "Indoor",
+      "duration": "7 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Do a 5-minute stretching routine",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Tidy up your desk space",
+      "category": "Indoor",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Write a 3-line poem",
+      "category": "Creative",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Go for a short 5-minute walk",
+      "category": "Outdoor",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Take a photo of an interesting leaf or flower",
+      "category": "Outdoor",
+      "duration": "6 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Step outside and take 10 deep breaths",
+      "category": "Outdoor",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Look up at the clouds and find shapes",
+      "category": "Outdoor",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Origami a simple jumping frog",
+      "category": "Creative",
+      "duration": "8 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Doodle your favorite food",
+      "category": "Creative",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Design a custom bookmark",
+      "category": "Creative",
+      "duration": "10 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Learn 1 new word in a new language",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Drink a glass of water slowly",
+      "category": "Relaxing",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Close your eyes and listen to quiet music for 3 minutes",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Take a short stretch and breathe deeply",
+      "category": "Relaxing",
+      "duration": "3 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Make a tiny paper heart",
+      "category": "Creative",
+      "duration": "4 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Write down 3 things you enjoy",
+      "category": "Creative",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Sit outside and notice 3 sounds",
+      "category": "Outdoor",
+      "duration": "2 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Sketch a simple object nearby",
+      "category": "Creative",
+      "duration": "7 minutes",
+      "mood": "Calm"
+    },
+    {
+      "title": "Take a short tea or water break",
+      "category": "Relaxing",
+      "duration": "5 minutes",
+      "mood": "Calm"
+    }
+  ]
+}
